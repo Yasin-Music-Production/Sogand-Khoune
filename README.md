@@ -6,7 +6,7 @@ This project is a FL Studio music production remake/cover of the track "Khoune" 
 ## Project Overview
 - Project type: FL Studio music production
 - Main file: `Sogand-Khoune.flp`
-- VST&Plugign: `FL Studio defualt vst and plugins`
+- VST&Plugin: `FL Studio defualt vst and plugins`
 - Audio output: `Sogand-Khoune (Cover Version).mp3`
 - Extra export: `Sogand-Khune (320).mp3`
 
