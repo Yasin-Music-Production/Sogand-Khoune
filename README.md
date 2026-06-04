@@ -1,6 +1,7 @@
 # Sogand-Khoune
 
 This project is a FL Studio music production remake/cover of the track "Khoune" by Sogand.
+<img width="1949" height="1207" alt="Screenshot" src="https://github.com/Yasin-Music-Production/Sogand-Khoune/blob/main/Screenshot.png" />
 
 ## Project Overview
 - Project type: FL Studio music production
